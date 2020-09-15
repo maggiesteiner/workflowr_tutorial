@@ -11,3 +11,5 @@ editor_options:
 Welcome to my research website.
 
 [teeth growth analysis](teeth.html)
+
+[my teammate Summer Zhang's analysis](https://zhangxingruo.github.io/wflowr_test/teeth.html)

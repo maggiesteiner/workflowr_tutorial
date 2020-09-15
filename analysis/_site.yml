@@ -1,7 +1,7 @@
-name: "workflowr_tutorial"
+name: workflowr_tutorial
 output_dir: ../docs
 navbar:
-  title: "workflowr_tutorial"
+  title: workflowr_tutorial
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/maggiesteiner/workflowr_tutorial
 output:
   workflowr::wflow_html:
     toc: yes
